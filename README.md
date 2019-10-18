@@ -19,3 +19,5 @@ MSSQL
 Seeding default data to SQLite In-Memory DB
 
 Seeding default account to MSSQL/Identity
+
+![alt text](https://github.com/flaciGit/ASPNET-MVC-Example/blob/master/img/1.png?raw=true)
