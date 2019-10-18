@@ -1,6 +1,8 @@
 # ASPNET-MVC-Example
 ASP.NET MVC
 
+An ASP.NET Core MVC Example with ASP.NET Core Identity login, database with SQLite in memory, create/delete/edit only when the user is logged in. Listing and deleting option of users when a user is logged in.
+
 
 Content:
 
